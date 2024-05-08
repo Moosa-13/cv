@@ -33,16 +33,16 @@ h3{
 }
 .cloud2 {
     position: absolute;
-    width: 225px;
-    height: 72px;
+    width: 450px;
+    height: 144px;
     position: absolute;
     left:200px;
 
 }
 
 .cloud1 {
-    width: 225px;
-    height: 72px;
+    width: 450px;
+    height: 144px;
     position: absolute;
     right: 380px;
 }
